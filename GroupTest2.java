@@ -7,7 +7,7 @@ public class GroupTest2
 	@Test(groups="G1")
 	public void meth1()
 	{
-
+		//abcd
 		System.out.println("This is meth1() in GroupTest2");
 	}
 	@Test(groups="G1")
